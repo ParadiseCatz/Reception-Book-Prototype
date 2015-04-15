@@ -1,0 +1,25 @@
+.table-element {
+	text-align: left;
+}
+
+.table-element-green {
+	text-align: left;
+	color: green;
+}
+
+.table-element-red {
+	text-align: left;
+	color: red;
+}
+
+.invalid-response {
+	color: red;
+}
+
+.valid-response {
+	color: green;
+}
+
+html {
+	overflow-y: scroll;
+}
